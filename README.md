@@ -24,7 +24,7 @@ Disperse app lets you distribute LISK tokens like LSK to multiple addresses usin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/disperse-LISK-clone.git
+   git clone https://github.com/DennohKim/disperse-LISK-clone.git
    ```
 
 2. Install the dependencies:
