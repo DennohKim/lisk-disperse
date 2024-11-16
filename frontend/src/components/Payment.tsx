@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 import { useContext, useEffect, useState } from "react";
-import ERC20 from "../artifacts/ERC20.json";
-import Disperse from "../artifacts/Disperse.json";
+import ERC20 from "../abi/ERC20.json";
+import Disperse from "../abi/Disperse.json";
 import Confirm from "./Confirm";
 import Recipients from "./Recipients";
 import { NetworkContext } from "../App";

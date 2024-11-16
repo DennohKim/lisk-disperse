@@ -1,7 +1,7 @@
 import { useState, useEffect, useContext } from "react";
 import { ethers } from "ethers";
 
-import Disperse from "../artifacts/Disperse.json";
+import Disperse from "../abi/Disperse.json";
 import { getNetworkInfo, parseText } from "../utils/index";
 import Recipients from "./Recipients";
 import ConfirmEther from "./ConfirmEther";
