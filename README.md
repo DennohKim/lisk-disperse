@@ -1,6 +1,6 @@
 # Disperse App for Lisk Tokens
 
-## LISK Hackathon by Mento Submission 
+## LISK Hackathon 2024 x KibokoDAO
 
 Disperse app lets you distribute LISK tokens like LSK to multiple addresses using a single transaction on the LISK blockchain.
 
