@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import { NetworkContext } from "../App";
-import ckes from "../assets/cKES.png";
 import lisk from "../assets/lisk-lsk-logo.png";
 
 type HeaderProps = {
